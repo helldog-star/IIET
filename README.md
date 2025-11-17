@@ -8,9 +8,10 @@ High-order numerical methods enhance Transformer performance in tasks like NLP a
 ## Citation
 If you find this work useful, please cite:
 ```bibtex
-@inproceedings{yourname2025iiet,
-  title={iiet: Efficient Numerical Transformer via Implicit Iterative Euler Method},
-  author={Your Name and Co-authors},
-  booktitle={Proceedings of EMNLP 2025},
+@inproceedings{liu2025iiet,
+  title={IIET: Efficient Numerical Transformer via Implicit Iterative Euler Method},
+  author={Liu, Xinyu and Li, Bei and Liu, Jiahao and Ruan, Junhao and Jiao, Kechen and Tang, Hongyin and Wang, Jingang and Xiao, Tong and Zhu, Jingbo},
+  booktitle={Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing},
+  pages={8955--8969},
   year={2025}
 }
